@@ -30,8 +30,7 @@
                         <div class="col-xl-6 col-lg-6 ">
                             <div class="copyright-text ">
                                 <p class=" text-dark text-center">حقوق الطبع والنشرCopyright &copy; لعام2022 محفوظة
-                                    لشركة
-                                    <strong style="color:rgb(31, 92, 92)">SIGMA</strong>
+                                    ل<strong style="color:rgb(31, 92, 92)">مؤسسة المنى ومنصة 24 تك</strong>
                                     أو الشركات
                                     التابعة لها
                                 </p>

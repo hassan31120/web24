@@ -8,7 +8,7 @@
             <a class="navbar-brand m-0" href="{{route('main')}}"
                 target="_blank">
 
-                <span class="me-1 font-weight-bold text-white"> MOTION</span>
+                <span class="me-1 font-weight-bold text-white"> WEB </span>
             </a>
         </div>
         <hr class="horizontal light mt-0 mb-2">
